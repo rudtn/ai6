@@ -77,7 +77,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg"]},
     labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCIYe6tXLLLd58f6X8gr3gi3uSwsizc15GKQ&s"]},
     labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp"]},
-    labels[3] : {"texts" : ["탕수은 맛있어"], "images" : ["https://blog.kakaocdn.net/dna/qnIz2/btqSdtiK7C4/AAAAAAAAAAAAAAAAAAAAAK_eDgChgNlbA3DwDL3Rhp3zyE68j5YgxkTq4Zz6RRN5/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=IgQS1EsJodJN9xYMyJB6awE7Ae8%3D"]},
+    labels[3] : {"texts" : ["탕수은 맛있어"], "images" : ["https://mblogthumb-phinf.pstatic.net/MjAyMTAyMTJfMTE1/MDAxNjEzMTMxNjg5Nzky.QfsDVNvBTr67340jJ-DQdNxPByX6CqUq8rWy4Te4bmEg.4TJeK3uT4ZM6fXKyRCQprcgZEgR5s06SJvV_yCjdfAcg.JPEG.eosllover/SE-4479e5d0-e873-4275-9d9f-5630144b2477.jpg?type=w800"]},
     
 }
 
